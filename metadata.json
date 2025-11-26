@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gerador de Números da Sorte - Megasena 1.0",
+  "description": "Um aplicativo que usa IA para gerar números da sorte para a Megasena com base em seus dados pessoais e astrológicos, como nome, data de nascimento e signo.",
+  "requestFramePermissions": []
+}
